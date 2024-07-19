@@ -3,7 +3,7 @@ import { ga } from 'react-ga'
 /**
  * 广告链接（云空调后记）
  */
-export const adsenseLink = 'https://mp.weixin.qq.com/s/WRZgds9PlH5MBxlhJYOj8g'
+export const adsenseLink = 'https://www.caxkernel.com'
 
 /**
  * 跳转至公众号广告

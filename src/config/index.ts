@@ -1,4 +1,4 @@
 export const adsense = {
-  link: 'https://home.yunle.fun',
+  link: 'https://www.caxkernel.com',
   icon: 'i-mdi:home-lightbulb-outline',
 }

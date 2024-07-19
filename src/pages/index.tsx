@@ -32,7 +32,7 @@ const Home: React.FC = () => {
     <div className={`max-w-600px m-auto ${getClassByMode()}`}>
       <div className="pt-6">
         <h1 className="text-center text-3xl">
-          卡核小空调
+          小空调
         </h1>
         <ProTip />
         <AirConditioner

@@ -40,7 +40,10 @@ const Home: React.FC = () => {
           temperature={ac.temperature}
           mode={ac.mode}
         />
-        
+
+        <RemoteControl />
+      </div>
+
       <Toast />
     </div>
   )

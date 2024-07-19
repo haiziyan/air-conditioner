@@ -9,6 +9,7 @@ import Toast from '~/components/Toast'
 
 import { useDetectStorage } from '~/hooks'
 import { useAcCtx } from '~/context'
+import { adsenseLink, jumpToAdsense } from '~/utils/adsense'
 
 /**
  * 主页

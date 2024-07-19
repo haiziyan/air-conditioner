@@ -10,7 +10,7 @@ import * as pkg from '~/../package.json'
 
 import './AirConditioner.scss'
 
-// import { adsenseLink, jumpToAdsense } from "../adsense";
+ //import { adsenseLink, jumpToAdsense } from "../adsense";
 
 export const acColor = {
   border: '#e0e0e0',
@@ -42,6 +42,7 @@ const AcLogo: React.FC = () => {
     <div className="text-center mt-28">
       <a
         className="block"
+        href={pkg.repository.url}
         title={pkg.description}
         target="_blank"
         rel="noreferrer noopener"

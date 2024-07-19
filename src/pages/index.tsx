@@ -9,7 +9,7 @@ import Toast from '~/components/Toast'
 
 import { useDetectStorage } from '~/hooks'
 import { useAcCtx } from '~/context'
-import { adsenseLink, jumpToAdsense } from '~/utils/adsense'
+
 
 /**
  * 主页
@@ -33,7 +33,7 @@ const Home: React.FC = () => {
     <div className={`max-w-600px m-auto ${getClassByMode()}`}>
       <div className="pt-6">
         <h1 className="text-center text-3xl">
-        <AdsenseLink text="卡核" />小空调
+        卡核小空调
         </h1>
         <ProTip />
         <AirConditioner

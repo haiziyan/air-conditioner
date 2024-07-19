@@ -47,10 +47,3 @@ const socialList = [
   },
 ]
 
-const Copyright: React.FC = () => {
-  return (
-    
-  )
-}
-
-export default Copyright
